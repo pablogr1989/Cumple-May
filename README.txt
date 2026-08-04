@@ -1,0 +1,1 @@
+Coloca tus fotos como images/portada.jpg e images/despedida.jpg. Sube todos los archivos a cualquier hosting estático.
